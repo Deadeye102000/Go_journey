@@ -9,4 +9,7 @@ func main() {
 
 	var isAdult = true // implicit type
 	fmt.Println(isAdult)
+
+	My_name := "Anany" // short variable declaration
+	fmt.Println(My_name)
 }
